@@ -1,0 +1,1 @@
+Welcome to my grey box prototype, showing the "Air" part of the Sea, Land and Air theme! In this early stage model, I focused on creating a basic aircraft design and providing users with some simple interactions. This model is the initial concept for our project, which aims to demonstrate our sea, land, and air themes.
